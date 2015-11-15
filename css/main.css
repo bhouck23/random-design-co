@@ -106,6 +106,17 @@ body {
     border: 1px solid red;
     }
 
+.page-header {
+    background-color: #000;
+    color: #fff;
+    padding: 1em;
+    }
+
+.page-header h1 {
+    font-size: 1em;
+    margin: 0;
+    }
+
 
 
 
