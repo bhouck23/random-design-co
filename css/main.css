@@ -108,6 +108,7 @@ body {
 
 p {
     font-size: 1.4em;
+    padding: 1em;
     }
 
 /* MAIN NAVIGATION */
@@ -141,7 +142,6 @@ p {
 .header {
     background-position: auto;
     position: relative;
-    padding: 1em;
     }
 
 .header img {
@@ -194,7 +194,7 @@ p {
     }
 
 .main-content h2 {
-    padding-top: 2.5em;
+    padding: 1em;
     margin-top: 0em;
     }
 
@@ -213,7 +213,7 @@ p {
     max-width: 100%;
     background-color: #fff;
     opacity: .3;
-    padding: 1em;
+    padding: 2em;
     }
 
 .latest-work ul {
